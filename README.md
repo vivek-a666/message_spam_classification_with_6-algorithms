@@ -11,7 +11,7 @@ I have uesd 6 algorithms
 * Naive Bayes
 * K Nearest NeighborT
 * DecisionTree
-
+* AdaBoostClassifier
 
 
 Dataset Link
